@@ -4,13 +4,13 @@ Example to practice with clone of twitter online view
 
 ## Vista del proyecto 🚀
 
-Mira **[Youtube-Page](https://julian1david.github.io/youtube-view/)** para conocer como funciona el proyecto.
+Mira **[Youtube-Page](https://julianf-dev.github.io/youtube-view/)** para conocer como funciona el proyecto.
 
 
 ### Instalación 🔧
 
 ```
-git clone git@github.com:julian1david/youtube-view.git
+git clone git@github.com:julianf-dev/youtube-view.git
 ```
 
 Inicia el ./public/index.html  tu navegador
